@@ -112,6 +112,13 @@ section.module.parallax2{
 
 section.module.parallax-1,section.module.parallax2{
     background-image: url("image/a1/children-1_1980.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
     
 
   
