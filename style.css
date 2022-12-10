@@ -79,31 +79,35 @@ main{
     background-color: #0DCAF0;
  }
 section.module.parallax{
-  height: 140%;
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    -webkit-transform-origin-x: 100%;
-    -moz-transform-origin-x: 100%;
-    -ms-transform-origin-x: 100%;
-    -o-transform-origin-x: 100%;
-    transform-origin-x: 100%;
+height: 500px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    -webkit-perspective: 1px;
+    -moz-perspective: 1px;
+    -ms-perspective: 1px;
+    -o-perspective: 1px;
+    perspective: 1px;
+    -webkit-perspective-origin-x: 100%;
+    -moz-perspective-origin-x: 100%;
+    -ms-perspective-origin-x: 100%;
+    -o-perspective-origin-x: 100%;
+    perspective-origin-x: 100%;
   
 }
 section.module.parallax2{
-  height: 140%;
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    -webkit-transform-origin-x: 100%;
-    -moz-transform-origin-x: 100%;
-    -ms-transform-origin-x: 100%;
-    -o-transform-origin-x: 100%;
-    transform-origin-x: 100%;
+ height: 500px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    -webkit-perspective: 1px;
+    -moz-perspective: 1px;
+    -ms-perspective: 1px;
+    -o-perspective: 1px;
+    perspective: 1px;
+    -webkit-perspective-origin-x: 100%;
+    -moz-perspective-origin-x: 100%;
+    -ms-perspective-origin-x: 100%;
+    -o-perspective-origin-x: 100%;
+    perspective-origin-x: 100%;
 }
 
 section.module.parallax-1,section.module.parallax2{
