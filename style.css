@@ -120,7 +120,14 @@ section.module.parallax2{
     perspective-origin-x: 100%;
 }
 
-section.module.parallax-1,section.module.parallax2{
+section.module.parallax-1{
+    background-image: url("image/a1/children-1_1980.jpg");
+  
+    
+
+  
+}
+.section.module.parallax2{
     background-image: url("image/a1/children-1_1980.jpg");
   
     
